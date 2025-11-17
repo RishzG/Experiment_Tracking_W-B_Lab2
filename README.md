@@ -130,8 +130,8 @@ MobileNetV2 reaches high performance quickly due to transfer learning.
 │
 ├── lab2_cifar10_transfer.ipynb   # Full implementation (single notebook)
 ├── README.md                     # This file
-├── requirements.txt              # (Optional) dependencies
-└── assets/                       # (Optional) images used in README
+├── requirements.txt              # dependencies
+└── assets/                       # images used in README
 ```
 
 ---

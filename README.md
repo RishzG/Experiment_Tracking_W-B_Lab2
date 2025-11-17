@@ -109,7 +109,20 @@ Efficient, scalable, memory‑safe.
 MobileNetV2 reaches high performance quickly due to transfer learning.
 
 ---
+# W&B Run Overview
 
+### System + Runtime  
+<p align="center">
+  <img src="assets/cifar_run.png" width="85%">
+</p>
+
+---
+
+### Config, Metrics & Artifacts  
+<p align="center">
+  <img src="assets/cifar_run2.png" width="85%">
+</p>
+---
 #  Repository Structure
 
 ```

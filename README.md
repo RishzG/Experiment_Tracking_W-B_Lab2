@@ -30,7 +30,6 @@ This repository contains my **modified version of Lab 2**
 - `preprocess_input()` for MobileNetV2 normalization  
 - Shuffling, batching, prefetching  
 - Memory‑safe GPU‑optimized pipeline  
-- Prevents OOM errors on Colab T4 GPUs
 
 
 ---
